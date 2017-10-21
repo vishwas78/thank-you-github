@@ -793,3 +793,4 @@ Signed,
 - Hugo ([@AnanaGame](https://github.com/AnanaGame)), Ruby and Java developer, Geneva
 - Dan Iverspn ([@iversond](https://github.com/iversond)), System Admin, Minnesota
 - Vishwas Mittal ([@vishwas78](https://github.com/vishwas78)),Student and Full Stack Developer, India
+- Pulkit Gupta ([@pulkonet](https://github.com/pulkonet)), Student and Software Developer, India
